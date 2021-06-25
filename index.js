@@ -46,4 +46,4 @@ const makeRandomCommits = (n) => {
 };
 
 logger.log("info", "==========START Commiting=======");
-makeRandomCommits(50);
+makeRandomCommits(25);
